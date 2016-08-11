@@ -1,5 +1,5 @@
 # django-poll-app
-This is my solution to the django tutorial https://docs.djangoproject.com/en/1.10/intro/tutorial01/
+This is basic poll application using django ( Base from the official django website )
 
 #Django Setup
 > - Recommended way to use [**virtualenv**](https://virtualenv.pypa.io/en/stable/). Make a ***virtaulenv***: `virtualenv dirname`
